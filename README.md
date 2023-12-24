@@ -1,5 +1,5 @@
 # DDA3020
-This is the assignment answers to DDA3020 in AY2022-2023, Term 2. The requirements, data, and the solution to the written part of each assignment are in the `./Requirements and Datas` of each folder.
+This is the assignment of DDA3020 in AY2022-2023, Term 2. The requirements, data, and the solution to the written part of each assignment are in the `./Requirements and Datas` of each folder.
 ## Grades of all the Assignments:
 **Assignment 1:** 96/100
 
